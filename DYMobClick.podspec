@@ -10,6 +10,5 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/kerain/DYMobClick.git", :tag => "#{s.version}" }
   s.requires_arc = true
   s.source_files = "DYAnalytics/DYAnalytics/*.h"
-  s.resources    = "DYAnalytics/DYAnalytics/*.plist"
-  s.frameworks    = "Products/*.framework"
+  s.resources    = "DYAnalytics/DYAnalytics/*.plist,Products/*.framework"
 end
