@@ -11,5 +11,5 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.source_files = "DYAnalytics/DYAnalytics/*.h"
   s.resources    = "DYAnalytics/DYAnalytics/*.plist"
-  s.vendored_frameworks = 'Products/DYUMobClick.framework'
+  s.vendored_frameworks = 'DYAnalytics.framework'
 end
