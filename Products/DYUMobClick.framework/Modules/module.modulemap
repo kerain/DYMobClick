@@ -1,0 +1,6 @@
+framework module DYUMobClick {
+  umbrella header "DYUMobClick.h"
+
+  export *
+  module * { export * }
+}
