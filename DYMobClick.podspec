@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "EmoticonKeyboard"
+  s.name         = "DYMobClick"
   s.version      = "0.0.1"
   s.summary      = "A clone of emoticonkeyboard, support picking multiple photos、original photo and video"
   s.homepage     = "https://github.com/kerain/DYMobClick"
